@@ -9,13 +9,13 @@ Sunset taken in Ascot Hills Park, Los Angeles, CA
 
 <div style="display: flex;align-items: flex-start">
     <a href="/assets/pictures/ca/DJI_0085.jpg">
-        <img src="/assets/pictures/ca/DJI_0085-thumb.jpg" title="xxx" style="margin-right:10px;width:32%">
+        <img src="/assets/pictures/ca/DJI_0085-thumb.jpg" title="xxx" style="margin-right:10px;width:32%;height:300px">
     </a>
     <a href="/assets/pictures/ca/DSC1571.jpg">
-        <img src="/assets/pictures/ca/DSC1571-thumb.jpg" title="xxx" style="margin-right:10px;width:32%">
+        <img src="/assets/pictures/ca/DSC1571-thumb.jpg" title="xxx" style="margin-right:10px;width:32%;height:300px">
     </a>
     <a href="/assets/pictures/ca/DSC00745.jpg">
-        <img src="/assets/pictures/ca/DSC00745-thumb.jpg" title="xxx" style="width:32%">
+        <img src="/assets/pictures/ca/DSC00745-thumb.jpg" title="xxx" style="width:32%;height:300px">
     </a>
 </div>
 
