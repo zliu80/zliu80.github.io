@@ -7,5 +7,5 @@ tags: California Scenery
 ---
 Jekyll uses Rouge by default for syntax highlighting, here are some tests.
 
-![test](https://github.com/zliu80/zliu80.github.io/blob/gh-pages/assets/pictures/ca/DJI_0085.jpg) 
+![test](/assets/pictures/ca/DJI_0085.jpg) 
 
