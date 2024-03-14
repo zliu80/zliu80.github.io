@@ -7,29 +7,5 @@ tags: California Scenery
 ---
 Jekyll uses Rouge by default for syntax highlighting, here are some tests.
 
-Ruby:
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+![test](https://github.com/zliu80/zliu80.github.io/blob/gh-pages/assets/pictures/ca/DJI_0085.jpg) 
 
-Python with line numbers:
-{% highlight python linenos %}
-def print_hi(name):
-    print("Hi, {}".format(name))
-
-print_hi('Tom')
-# prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-C with line numbers:
-{% highlight c linenos %}
-void print_hi(string name) {
-  printf("Hi, %s", name);
-}
-print_hi("Tom");
-/* prints 'Hi, Tom' to STDOUT. */
-{% endhighlight %}
